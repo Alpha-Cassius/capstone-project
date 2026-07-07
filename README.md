@@ -1,6 +1,6 @@
 # IIT Patna X Masai AIML (in Hindi) Capstone Project
 
-Welcome to the comprehensive Data Science Capstone Project. This repository is structured into four distinct parts, demonstrating an end-to-end machine learning lifecycle—from raw data processing to the deployment of an LLM-powered explanation feature.
+This repository is structured into four distinct parts, demonstrating an end-to-end machine learning lifecycle—from raw data processing to the deployment of an LLM-powered explanation feature.
 
 ## Repository Structure
 
